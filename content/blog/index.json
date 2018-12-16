@@ -1,0 +1,7 @@
+{
+	"articles": [{
+		"link": "/blog/first_article.md",
+		"title": "First Article",
+		"slug": "/article/blog/first_article"
+	}]
+}

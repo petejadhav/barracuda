@@ -1,0 +1,12 @@
+{
+    "categories": [
+        "blog"
+    ],
+    "flatpages": [
+        {
+            "link": "/flatpages/about_me.md",
+            "title": "About Me"
+        }
+    ],
+    "general": {}
+}
