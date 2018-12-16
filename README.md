@@ -2,6 +2,9 @@
 
 ## VueJS based Flat Blog Framework
 ### Vue, Vue-router, Vuex, Vue-markdown
+* Create pages in markdown
+* Create Categories auto-injected into the navbar
+* Create flatpages like - About, Contact, etc. directly reflecting on the navbar.
 
 ## Instructions
 * Install node, npm and python3
