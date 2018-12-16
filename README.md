@@ -17,4 +17,4 @@
 
 
 ### Installation & Deploy script coming soon.
-### Beta release Christmas 
+### Beta release by Christmas 
