@@ -7,7 +7,7 @@ yarn-error.log*
 
 # Build files
 index.html
-static
+static/
 
 # Runtime data
 pids
